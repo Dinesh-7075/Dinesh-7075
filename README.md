@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dinesh Reddy</h1>
 <h3 align="center">A passionate Java full stack developer from India</h3>
 
-- 📫 How to reach me **jammidinesh717@gmail.com**
+- 📫 How to reach me **jdinesh7075@gmail.com**
 
 <p align="left">
 </p>
